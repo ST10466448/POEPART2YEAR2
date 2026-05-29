@@ -50,4 +50,6 @@ The chatbot supports the following cybersecurity topics:
 - Data Breaches
 - Safe Browsing
 
-- 
+-
+- <img width="1220" height="862" alt="image" src="https://github.com/user-attachments/assets/7e4f6ed7-5755-4741-81bb-c988942c68ae" />
+
